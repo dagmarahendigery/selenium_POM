@@ -1,1 +1,4 @@
 .venv *.pyc
+*.pyc
+.idea
+*/__pycache__
